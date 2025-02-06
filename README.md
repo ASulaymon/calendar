@@ -6,7 +6,7 @@ Bu dastur xohlagan yilning xohlagan oyini kalendarini calendar.txt fayliga jo'na
 
 ### ↓
 
-![output](/natija.png)
+![output](/output.png)
 
 ---
 
